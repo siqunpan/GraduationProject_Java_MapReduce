@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed May 02 10:26:10 CST 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=AnalysisOfVariance_fat.jar
+manifest.mergeall=true
+manifest.mainclass=AnalysisOfVariance
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
